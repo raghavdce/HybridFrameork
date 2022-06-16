@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" allow-return-values="true">
+	<test name="Test" allow-return-values="true">
+		<classes>
+			<!-- <class name="com.mindtree.BaseClass.TC001_ValidLoginTest" />
+			<class name="com.mindtree.BaseClass.TC002_InvalidLoginTest" />
+			<class name="com.mindtree.BaseClass.TC003_ResendOTPLoginTest" />
+			<class name="com.mindtree.BaseClass.TC005_ValidateDemographicTest" />
+			<class name="com.mindtree.BaseClass.TC006_ConsentDismissal" />
+			<class name="com.mindtree.BaseClass.TC007_ValidateDemoFields" />
+			<class name="com.mindtree.BaseClass.TC008_UploadDocuments" />
+			<class name="com.mindtree.BaseClass.TC009_ValidatePreview" />
+			<class name="com.mindtree.BaseClass.TC010_SelectCenterByCountry" />
+			<class name="com.mindtree.BaseClass.TC011_SelectTimeSlot" />
+			<class name="com.mindtree.BaseClass.TC012_Acknowledgement" /> -->
+			<class name="com.mindtree.BaseClass.TC004_DiscardAnAppFromDashboard" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

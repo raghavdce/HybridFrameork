@@ -1,0 +1,47 @@
+28-04-2020 - 18:19:09.290 [main] INFO  com.mindtree.BaseClass.BaseClass - Gender is set
+28-04-2020 - 18:19:09.452 [main] INFO  com.mindtree.BaseClass.BaseClass - Resident is set
+28-04-2020 - 18:19:09.765 [main] INFO  com.mindtree.BaseClass.BaseClass - Address line 1 is entered
+28-04-2020 - 18:19:10.186 [main] INFO  com.mindtree.BaseClass.BaseClass - Address line 2 is entered
+28-04-2020 - 18:19:10.558 [main] INFO  com.mindtree.BaseClass.BaseClass - Address line 3 is entered
+28-04-2020 - 18:19:12.989 [main] INFO  com.mindtree.BaseClass.BaseClass - Region is set
+28-04-2020 - 18:19:15.327 [main] INFO  com.mindtree.BaseClass.BaseClass - province is set
+28-04-2020 - 18:19:17.617 [main] INFO  com.mindtree.BaseClass.BaseClass - City is set
+28-04-2020 - 18:19:19.871 [main] INFO  com.mindtree.BaseClass.BaseClass - Zone is set
+28-04-2020 - 18:19:20.034 [main] INFO  com.mindtree.BaseClass.BaseClass - Postal code is entered
+28-04-2020 - 18:19:20.252 [main] INFO  com.mindtree.BaseClass.BaseClass - Mobile number is entered
+28-04-2020 - 18:19:20.698 [main] INFO  com.mindtree.BaseClass.BaseClass - Email address is entered
+28-04-2020 - 18:19:20.910 [main] INFO  com.mindtree.BaseClass.BaseClass - Reference number is entered
+28-04-2020 - 18:19:21.192 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked continue button in demographic screen
+28-04-2020 - 18:19:21.208 [main] INFO  com.mindtree.BaseClass.BaseClass - Navigated to Document Upload Screen
+28-04-2020 - 18:19:25.395 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked continue button in doc upload screen
+28-04-2020 - 18:19:25.488 [main] INFO  com.mindtree.BaseClass.BaseClass - Navigated to Preview screen
+28-04-2020 - 18:19:25.567 [main] INFO  com.mindtree.BaseClass.BaseClass - DOB is verified
+28-04-2020 - 18:19:25.667 [main] INFO  com.mindtree.BaseClass.BaseClass - Age is verified
+28-04-2020 - 18:19:25.714 [main] INFO  com.mindtree.BaseClass.BaseClass - Gender is verified
+28-04-2020 - 18:19:25.763 [main] INFO  com.mindtree.BaseClass.BaseClass - Resident is verified
+28-04-2020 - 18:19:25.821 [main] INFO  com.mindtree.BaseClass.BaseClass - Address is verified
+28-04-2020 - 18:19:25.866 [main] INFO  com.mindtree.BaseClass.BaseClass - Region is verified
+28-04-2020 - 18:19:25.921 [main] INFO  com.mindtree.BaseClass.BaseClass - Province is verified
+28-04-2020 - 18:19:25.969 [main] INFO  com.mindtree.BaseClass.BaseClass - City is verified
+28-04-2020 - 18:19:26.022 [main] INFO  com.mindtree.BaseClass.BaseClass - Zone is verified
+28-04-2020 - 18:19:26.076 [main] INFO  com.mindtree.BaseClass.BaseClass - Mobile number is verified
+28-04-2020 - 18:19:26.123 [main] INFO  com.mindtree.BaseClass.BaseClass - Email address is verified
+28-04-2020 - 18:19:26.163 [main] INFO  com.mindtree.BaseClass.BaseClass - Reference number is verified
+28-04-2020 - 18:19:26.569 [main] INFO  com.mindtree.BaseClass.BaseClass - Applicant navigated to center selection page
+28-04-2020 - 18:19:26.572 [main] INFO  com.mindtree.BaseClass.BaseClass - ******* TC010_SelectCenterByCountry is started *********
+28-04-2020 - 18:19:26.601 [main] INFO  com.mindtree.BaseClass.BaseClass -  # Book Appointment by center # - page is displayed
+28-04-2020 - 18:19:26.753 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked the main search button
+28-04-2020 - 18:19:26.962 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked the dropdown to select center by type
+28-04-2020 - 18:19:27.096 [main] INFO  com.mindtree.BaseClass.BaseClass - selected country as the type
+28-04-2020 - 18:19:27.205 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered the country name
+28-04-2020 - 18:19:27.316 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked the inner search button to get the list of center that matches the criteria
+28-04-2020 - 18:19:27.684 [main] INFO  com.mindtree.BaseClass.BaseClass - selected the desire center
+28-04-2020 - 18:19:27.881 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked continue in book appointment page
+28-04-2020 - 18:19:31.887 [main] INFO  com.mindtree.BaseClass.BaseClass - ************* TC011_SelectTimeSlot is started *************
+28-04-2020 - 18:19:31.962 [main] INFO  com.mindtree.BaseClass.BaseClass - Time and date slot page is displayed
+28-04-2020 - 18:19:32.003 [main] INFO  com.mindtree.BaseClass.BaseClass - Getting the list of available slots as on Today
+28-04-2020 - 18:19:32.003 [main] INFO  com.mindtree.BaseClass.BaseClass - Checking the slot avilable today is not Saturday and Sunday
+28-04-2020 - 18:19:32.079 [main] INFO  com.mindtree.BaseClass.BaseClass - Checking the slot avilable today is not Saturday and Sunday
+28-04-2020 - 18:19:32.151 [main] INFO  com.mindtree.BaseClass.BaseClass - Confirmed the slot available today is a weekday
+28-04-2020 - 18:19:32.278 [main] INFO  com.mindtree.BaseClass.BaseClass - Desired date for appointment is selected
+28-04-2020 - 18:19:32.364 [main] INFO  com.mindtree.BaseClass.BaseClass - Morning slot is selected

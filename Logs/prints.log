@@ -1,0 +1,17 @@
+28-04-2020 - 18:22:33.402 [main] INFO  com.mindtree.BaseClass.BaseClass - Send SMS/Email button is clicked
+28-04-2020 - 18:22:33.456 [main] INFO  com.mindtree.BaseClass.BaseClass - Verified additional ack screen is displayed
+28-04-2020 - 18:22:33.704 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered Invalid email address
+28-04-2020 - 18:22:33.950 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid mobile number
+28-04-2020 - 18:22:33.990 [main] INFO  com.mindtree.BaseClass.BaseClass - Checking the ok button is enabled
+28-04-2020 - 18:22:34.101 [main] INFO  com.mindtree.BaseClass.BaseClass - ok button is clicked
+28-04-2020 - 18:22:34.299 [main] INFO  com.mindtree.BaseClass.BaseClass - Please re-check the entered email address. The entered email id is : 
+28-04-2020 - 18:22:36.304 [main] INFO  com.mindtree.BaseClass.BaseClass - In checkInvalidMobileNumber method
+28-04-2020 - 18:22:36.453 [main] INFO  com.mindtree.BaseClass.BaseClass - Send SMS/Email button is clicked
+28-04-2020 - 18:22:38.515 [main] INFO  com.mindtree.BaseClass.BaseClass - Verified additional ack screen is displayed
+28-04-2020 - 18:22:38.717 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid email address
+28-04-2020 - 18:22:38.872 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered invalid mobile number
+28-04-2020 - 18:22:38.904 [main] INFO  com.mindtree.BaseClass.BaseClass - Checking the ok button is enabled
+28-04-2020 - 18:22:38.949 [main] INFO  com.mindtree.BaseClass.BaseClass - Please re-enter the valid mobile number
+28-04-2020 - 18:22:39.017 [main] INFO  com.mindtree.BaseClass.BaseClass - Cleared the invalid mobile number
+28-04-2020 - 18:22:39.112 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid mobile number
+28-04-2020 - 18:22:39.224 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked Ok button

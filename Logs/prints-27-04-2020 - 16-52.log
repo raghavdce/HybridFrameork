@@ -1,0 +1,47 @@
+27-04-2020 - 13:41:49.059 [main] INFO  com.mindtree.BaseClass.BaseClass - ok button is clicked
+27-04-2020 - 13:41:49.107 [main] INFO  com.mindtree.BaseClass.BaseClass - Please re-check the entered email address. The entered email id is : 
+27-04-2020 - 13:41:51.108 [main] INFO  com.mindtree.BaseClass.BaseClass - In checkInvalidMobileNumber method
+27-04-2020 - 13:41:51.169 [main] INFO  com.mindtree.BaseClass.BaseClass - Send SMS/Email button is clicked
+27-04-2020 - 13:41:53.189 [main] INFO  com.mindtree.BaseClass.BaseClass - Verified additional ack screen is displayed
+27-04-2020 - 13:41:53.338 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid email address
+27-04-2020 - 13:41:53.436 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered invalid mobile number
+27-04-2020 - 13:41:53.455 [main] INFO  com.mindtree.BaseClass.BaseClass - Checking the ok button is enabled
+27-04-2020 - 13:41:53.478 [main] INFO  com.mindtree.BaseClass.BaseClass - Please re-enter the valid mobile number
+27-04-2020 - 13:41:53.518 [main] INFO  com.mindtree.BaseClass.BaseClass - Cleared the invalid mobile number
+27-04-2020 - 13:41:53.585 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid mobile number
+27-04-2020 - 13:41:53.640 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked Ok button
+27-04-2020 - 13:41:53.768 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked your app button in ack screen
+27-04-2020 - 13:41:53.771 [main] INFO  com.mindtree.BaseClass.BaseClass - ********From Deleting a booked Prid method **********
+27-04-2020 - 13:41:56.262 [main] INFO  com.mindtree.BaseClass.BaseClass - ********From Expired to Booked Prid method **********
+27-04-2020 - 13:41:56.298 [main] INFO  com.mindtree.BaseClass.BaseClass - Getting the list of PRID status
+27-04-2020 - 13:41:56.298 [main] INFO  com.mindtree.BaseClass.BaseClass - Getting into for loop of expired to booked method
+27-04-2020 - 13:41:56.325 [main] INFO  com.mindtree.BaseClass.BaseClass - Getting the PRID status
+27-04-2020 - 13:41:56.325 [main] INFO  com.mindtree.BaseClass.BaseClass - PRID status is assigned to a variable
+27-04-2020 - 13:41:56.325 [main] INFO  com.mindtree.BaseClass.BaseClass - The status of PRID is not Expired
+27-04-2020 - 13:41:56.325 [main] INFO  com.mindtree.BaseClass.BaseClass - Getting into for loop of expired to booked method
+27-04-2020 - 13:41:56.365 [main] INFO  com.mindtree.BaseClass.BaseClass - Getting the PRID status
+27-04-2020 - 13:41:56.365 [main] INFO  com.mindtree.BaseClass.BaseClass - PRID status is assigned to a variable
+27-04-2020 - 13:41:56.365 [main] INFO  com.mindtree.BaseClass.BaseClass - The status of PRID is not Expired
+27-04-2020 - 15:55:05.881 [main] INFO  com.mindtree.BaseClass.BaseClass - ********TC001_validLoginTest is strated **********
+27-04-2020 - 15:55:06.662 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered username
+27-04-2020 - 15:55:06.814 [main] INFO  com.mindtree.BaseClass.BaseClass - Awaiting for valid OTP
+27-04-2020 - 15:55:10.143 [main] INFO  com.mindtree.BaseClass.BaseClass - OTP is entered
+27-04-2020 - 16:03:36.783 [main] INFO  com.mindtree.BaseClass.BaseClass - ********TC001_validLoginTest is strated **********
+27-04-2020 - 16:03:37.318 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered username
+27-04-2020 - 16:03:37.464 [main] INFO  com.mindtree.BaseClass.BaseClass - Awaiting for valid OTP
+27-04-2020 - 16:03:41.705 [main] INFO  com.mindtree.BaseClass.BaseClass - OTP is entered
+27-04-2020 - 16:34:48.180 [main] INFO  com.mindtree.BaseClass.BaseClass - ********TC001_validLoginTest is strated **********
+27-04-2020 - 16:34:49.295 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered username
+27-04-2020 - 16:34:49.532 [main] INFO  com.mindtree.BaseClass.BaseClass - Awaiting for valid OTP
+27-04-2020 - 16:34:52.783 [main] INFO  com.mindtree.BaseClass.BaseClass - OTP is entered
+27-04-2020 - 16:42:38.620 [main] INFO  com.mindtree.BaseClass.BaseClass - ********TC001_validLoginTest is strated **********
+27-04-2020 - 16:42:39.124 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered username
+27-04-2020 - 16:42:39.291 [main] INFO  com.mindtree.BaseClass.BaseClass - Awaiting for valid OTP
+27-04-2020 - 16:42:42.563 [main] INFO  com.mindtree.BaseClass.BaseClass - OTP is entered
+27-04-2020 - 16:45:00.785 [main] INFO  com.mindtree.BaseClass.BaseClass - ********TC001_validLoginTest is strated **********
+27-04-2020 - 16:45:01.470 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered username
+27-04-2020 - 16:45:01.638 [main] INFO  com.mindtree.BaseClass.BaseClass - Awaiting for valid OTP
+27-04-2020 - 16:45:04.901 [main] INFO  com.mindtree.BaseClass.BaseClass - OTP is entered
+27-04-2020 - 16:52:12.821 [main] INFO  com.mindtree.BaseClass.BaseClass - ********TC001_validLoginTest is strated **********
+27-04-2020 - 16:52:13.696 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered username
+27-04-2020 - 16:52:13.790 [main] INFO  com.mindtree.BaseClass.BaseClass - Awaiting for valid OTP

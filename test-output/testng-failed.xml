@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test verbose="2" name="Default test">
+    <classes>
+      <class name="com.mindtree.BaseClass.TC012_Acknowledgement"/>
+    </classes>
+  </test> <!-- Default test -->
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.mindtree.BaseClass.TC012_Acknowledgement">
+        <methods>
+          <include name="checkProvince"/>
+          <include name="checkAge"/>
+          <include name="validateDemoscreen"/>
+          <include name="docUpload"/>
+          <include name="checkResident"/>
+          <include name="clickContinueInPreview"/>
+          <include name="validLoginTest"/>
+          <include name="checkTimeSlotPage"/>
+          <include name="selectDateAndTime"/>
+          <include name="checkInvalidEmailAddress"/>
+          <include name="openBrowser"/>
+          <include name="checkEmail"/>
+          <include name="checkInvalidMobileNumber"/>
+          <include name="checkRegion"/>
+          <include name="sendSmsEmail"/>
+          <include name="checkZone"/>
+          <include name="checkMobile"/>
+          <include name="checkFullName"/>
+          <include name="selectCenterByCountry"/>
+          <include name="checkDOB"/>
+          <include name="checkCity"/>
+          <include name="checkGender"/>
+          <include name="checkReference"/>
+          <include name="checkAckPage"/>
+          <include name="verifyAppName"/>
+          <include name="pdfNameCheck"/>
+          <include name="checkAddress"/>
+        </methods>
+      </class> <!-- com.mindtree.BaseClass.TC012_Acknowledgement -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

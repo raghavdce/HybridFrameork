@@ -1,0 +1,45 @@
+28-04-2020 - 18:19:32.452 [main] INFO  com.mindtree.BaseClass.BaseClass - Time for morning slot is selected
+28-04-2020 - 18:19:32.571 [main] INFO  com.mindtree.BaseClass.BaseClass - Add Applicant button is clicked
+28-04-2020 - 18:19:32.663 [main] INFO  com.mindtree.BaseClass.BaseClass - Continue button is clicked
+28-04-2020 - 18:19:33.496 [main] INFO  com.mindtree.BaseClass.BaseClass - Ok button is clicked to see the ack screen
+28-04-2020 - 18:19:33.502 [main] INFO  com.mindtree.BaseClass.BaseClass - ********TC012_Acknowledgement Test is started **********
+28-04-2020 - 18:19:33.672 [main] INFO  com.mindtree.BaseClass.BaseClass - The application displays the acknowledgement screen
+28-04-2020 - 18:19:33.672 [main] INFO  com.mindtree.BaseClass.BaseClass - verifying the applicant name matches in acknowledgement screen
+28-04-2020 - 18:19:34.164 [main] INFO  com.mindtree.BaseClass.BaseClass - Applicant name matches in acknowledgement screen
+28-04-2020 - 18:19:34.383 [main] INFO  com.mindtree.BaseClass.BaseClass - clicked download pdf button
+28-04-2020 - 18:19:36.438 [main] INFO  com.mindtree.BaseClass.BaseClass - Verifying the pdf name matches the PRID
+28-04-2020 - 18:19:36.438 [main] INFO  com.mindtree.BaseClass.BaseClass - PDF name matches the PRID
+28-04-2020 - 18:19:36.440 [main] INFO  com.mindtree.BaseClass.BaseClass - From sendSmsEmail method
+28-04-2020 - 18:19:36.513 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked the send sms/email button and verifying the ok button is enabled
+28-04-2020 - 18:19:36.546 [main] INFO  com.mindtree.BaseClass.BaseClass - In sendSmsEmail method
+28-04-2020 - 18:19:36.802 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid email address
+28-04-2020 - 18:19:36.993 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid mobile number
+28-04-2020 - 18:19:37.076 [main] INFO  com.mindtree.BaseClass.BaseClass - Ok button is clicked and the ack is sent to the given address
+28-04-2020 - 18:19:39.079 [main] INFO  com.mindtree.BaseClass.BaseClass - In checkInvalidEmailAddress method
+28-04-2020 - 18:19:39.212 [main] INFO  com.mindtree.BaseClass.BaseClass - Send SMS/Email button is clicked
+28-04-2020 - 18:19:39.255 [main] INFO  com.mindtree.BaseClass.BaseClass - Verified additional ack screen is displayed
+28-04-2020 - 18:19:39.505 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered Invalid email address
+28-04-2020 - 18:19:39.677 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid mobile number
+28-04-2020 - 18:19:39.705 [main] INFO  com.mindtree.BaseClass.BaseClass - Checking the ok button is enabled
+28-04-2020 - 18:19:39.779 [main] INFO  com.mindtree.BaseClass.BaseClass - ok button is clicked
+28-04-2020 - 18:19:39.964 [main] INFO  com.mindtree.BaseClass.BaseClass - Please re-check the entered email address. The entered email id is : 
+28-04-2020 - 18:19:41.971 [main] INFO  com.mindtree.BaseClass.BaseClass - In checkInvalidMobileNumber method
+28-04-2020 - 18:19:42.089 [main] INFO  com.mindtree.BaseClass.BaseClass - Send SMS/Email button is clicked
+28-04-2020 - 18:19:44.129 [main] INFO  com.mindtree.BaseClass.BaseClass - Verified additional ack screen is displayed
+28-04-2020 - 18:19:44.316 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid email address
+28-04-2020 - 18:19:44.463 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered invalid mobile number
+28-04-2020 - 18:19:44.501 [main] INFO  com.mindtree.BaseClass.BaseClass - Checking the ok button is enabled
+28-04-2020 - 18:19:44.550 [main] INFO  com.mindtree.BaseClass.BaseClass - Please re-enter the valid mobile number
+28-04-2020 - 18:19:44.627 [main] INFO  com.mindtree.BaseClass.BaseClass - Cleared the invalid mobile number
+28-04-2020 - 18:19:44.746 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered valid mobile number
+28-04-2020 - 18:19:44.850 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked Ok button
+28-04-2020 - 18:19:45.027 [main] INFO  com.mindtree.BaseClass.BaseClass - Clicked your app button in ack screen
+28-04-2020 - 18:21:10.940 [main] INFO  com.mindtree.BaseClass.BaseClass - ********TC001_validLoginTest is strated **********
+28-04-2020 - 18:21:11.628 [main] INFO  com.mindtree.BaseClass.BaseClass - Entered username
+28-04-2020 - 18:21:11.739 [main] INFO  com.mindtree.BaseClass.BaseClass - Awaiting for valid OTP
+28-04-2020 - 18:21:15.020 [main] INFO  com.mindtree.BaseClass.BaseClass - OTP is entered
+28-04-2020 - 18:21:15.216 [main] INFO  com.mindtree.BaseClass.BaseClass - clicked login button
+28-04-2020 - 18:21:15.806 [main] INFO  com.mindtree.BaseClass.BaseClass - TC001_ValidLogin test case is passed
+28-04-2020 - 18:21:20.546 [main] INFO  com.mindtree.BaseClass.BaseClass - ********TC005_validate Demographic page is started **********
+28-04-2020 - 18:22:20.757 [main] INFO  com.mindtree.BaseClass.BaseClass - From sendSmsEmail method
+28-04-2020 - 18:22:33.233 [main] INFO  com.mindtree.BaseClass.BaseClass - In checkInvalidEmailAddress method
